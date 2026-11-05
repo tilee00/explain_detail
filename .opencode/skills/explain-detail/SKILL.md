@@ -38,7 +38,7 @@ Consider this approach:
 Detail-1
 • explain the jargon in detail with simple english to a 15 year old student
 • provide explanation in easy to understand paragraph that in any .md structure
-• provide different perspective of the main idea using practical thinking model such as critical thinking, Inversion (Thinking Backwards), First Principles thinking, etc.
+• second last, provide different perspective of the main idea using practical thinking model such as critical thinking, Inversion (Thinking Backwards), First Principles thinking, etc.
 • Lastly, provide idea that stand at the opposite of the whole document idea
 
 
